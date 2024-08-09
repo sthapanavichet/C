@@ -1,0 +1,137 @@
+ACCELERATION REPORT 1:
+ The war bird is travelling at 2997924.58m/s and has travelled 0.00m.
+ Propulsion: fuel level: 996.67kg of matter/anti-matter, light level:0.10.
+ Propulsion: fuel level: 996.67kg of matter/anti-matter, light level:0.10.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The star ship is travelling at 2997924.58m/s and has travelled 0.00m.
+ Propulsion: fuel level: 979.50kg of matter/anti-matter, light level:0.10.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 2997924.58m/s and has travelled 0.00km.
+ Propulsion: fuel level: 399.00kg of matter/anti-matter, light level:0.10.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 2997924.58m/s and has travelled 0.00km.
+ Propulsion: fuel level: 98.50kg of matter/anti-matter, light level:0.10.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+
+ TRAVEL REPORT 1:
+ The war bird is travelling at 2997924.58m/s and has travelled 10792528480.00m.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The star ship is travelling at 2997924.58m/s and has travelled 10792528480.00m.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 2997924.58m/s and has travelled 107925284.88km.
+ Propulsion: fuel level: 759.00kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 2997924.58m/s and has travelled 107925284.88km.
+ Propulsion: fuel level: 458.50kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+
+ ACCELERATION REPORT 2:
+ The war bird is travelling at 4496886.87m/s and has travelled 10792528480.00m.
+ Propulsion: fuel level: 999.17kg of matter/anti-matter, light level:0.01.
+ Propulsion: fuel level: 999.17kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The star ship is travelling at 4496886.87m/s and has travelled 10792528480.00m.
+ Propulsion: fuel level: 994.88kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 4496886.87m/s and has travelled 107925284.88km.
+ Propulsion: fuel level: 608.75kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 4496886.87m/s and has travelled 107925284.88km.
+ Propulsion: fuel level: 233.12kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+
+ TRAVEL REPORT 2:
+ The war bird is travelling at 4496886.87m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The star ship is travelling at 4496886.87m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 10 0.00kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 4496886.87m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 968.75kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 4496886.87m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 593.12kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+
+ ACCELERATION REPORT 3:
+ The war bird is travelling at 5995849.16m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 999.17kg of matter/anti-matter, light level:0.01.
+ Propulsion: fuel level: 999.17kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The star ship is travelling at 5995849.16m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 994.88kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 5995849.16m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 818.50kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 5995849.16m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 367.75kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+
+ COMBAT REPORT 1:
+ The war bird is travelling at 5995849.16m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 999.16kg of matter/anti-matter, light level:0.01.
+ Propulsion: fuel level: 999.16kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:300 0.00kg, mass of cargo:10000.00kg, mass of workstations:30 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:95.
+ Weapon: number of laser cannons:5, number of torpedoes:95.
+
+ The star ship is travelling at 5995849.16m/s and has travelled 2698132122 0.00m.
+ Propulsion: fuel level: 994.87kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000.00kg, mass of cargo:3000 0.00kg, mass of workstations:100 0.00kg.
+ Weapon: number of laser cannons:5, number of torpedoes:100.
+
+ The cargo ship is travelling at 5995849.16m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 818.50kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+ Payload: mass of passengers:10000 0.00kg, mass of cargo:50000 0.00kg, mass of workstations:100 0.00kg.
+
+ The cargo ship is travelling at 5995849.16m/s and has travelled 269813212.20km.
+ Propulsion: fuel level: 367.75kg of matter/anti-matter, light level:0.01.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
+ Payload: mass of passengers:15000 0.00kg, mass of cargo:75000 0.00kg, mass of workstations:150 0.00kg.
